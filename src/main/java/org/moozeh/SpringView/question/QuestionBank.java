@@ -1,10 +1,8 @@
-package org.moozeh.SpringView.domain.question;
+package org.moozeh.SpringView.question;
 
 import jakarta.persistence.*;
-import org.moozeh.SpringView.domain.account.Account;
-import org.moozeh.SpringView.global.BaseTimeEntity;
-
-import java.util.Set;
+import org.moozeh.SpringView.account.Account;
+import org.moozeh.SpringView.common.BaseTimeEntity;
 
 @Entity
 public class QuestionBank extends BaseTimeEntity {

@@ -1,4 +1,4 @@
-package org.moozeh.SpringView.domain.question;
+package org.moozeh.SpringView.question;
 
 import jakarta.persistence.*;
 

@@ -1,4 +1,4 @@
-package org.moozeh.SpringView.global;
+package org.moozeh.SpringView.common;
 
 import jakarta.persistence.*;
 import lombok.Getter;

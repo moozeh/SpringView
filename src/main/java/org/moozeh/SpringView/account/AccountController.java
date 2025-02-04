@@ -1,4 +1,4 @@
-package org.moozeh.SpringView.domain.account;
+package org.moozeh.SpringView.account;
 
 import org.springframework.web.bind.annotation.RestController;
 
